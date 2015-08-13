@@ -98,8 +98,8 @@ Content {
   display: inline-block;
 }
 
-.Content2 {
-  font-size: 0.75em;
+#Content2 {
+  font-size: 0.6em;
 }
 
 main img {
